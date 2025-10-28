@@ -2,74 +2,31 @@
 ##
 */☕ Coffee-Shop-Sales-Analysis/*
 
-##📊 *Project Summary Overview*
+Bright Coffee Shop: Performance Analysis & Growth Strategy (Jan-Jun 2023)
 
-This analysis examines sales data for a 3-locations coffee shop chain from January to June 2023, identifying key revenue drivers and growth opportunities through comprehensive data analytics.
-
-
-##🎯 *Key Findings*
-
-Revenue Performance
-
-Total Revenue: Steady growth from January (12%) to June (24%)
-
-Monthly Growth: Consistent upward trajectory throughout  2023
-
-Pricing Stability: Quantity sold increased proportionally with revenue
+📊Project Overview
 
 
-##*Location Analysis*
+This analysis examines sales data for a 3-location coffee shop chain, identifying key revenue drivers and growth opportunities through comprehensive data analytics.
 
-Balanced Performance: All 3 locations contributed nearly equally to total revenue
+🎯Key Findings
 
-Geographic Consistency: No single location dominated or underperformed significantly
+-Revenue Performance: Consistent growth from January to June, with all three locations contributing nearly equally to total revenue
 
-Customer Behavior Patterns
+-Sales Trends: Strong morning performance with significant afternoon opportunity gaps
 
-Peak Hours: Morning (highest), Afternoon, Evening, Night (lowest)
+-Product Performance: Coffee dominates (39% of revenue), while Tea (28%) and Bakery (12%) show strong secondary performance
 
-Product Preferences: Coffee & Tea dominate (67% of revenue)
+-10-Point Performance Improvement Plan
 
-Ancillary Sales: Pastries and snacks contribute 33% of total revenue
-
-
-##🛠️ *Tools Used*
+🛠️Tools used
 
 
+-Miro for planning
 
-Analysis Tools: Snowflake for coding, MS Excel,Canva, Miro for plainning
+-Microsoft excel
 
-
-*Project Deliverables*
-
-
-SQL scripts for data extraction and transformation
-
-Comprehensive final report with actionable recommendations
-
-
-##*📈 Strategic Recommendations*
-
-
-
-
-1. Peak Period Optimization
-Maximize morning traffic efficiency
-
-Develop strategies to improve off-peak performance
-
-
-2. Revenue Enhancement
-Increase Average Transaction Value (ATV) through upselling
-
-Implement location-specific optimization strategies
-
-3. Customer Engagement
-Strengthen loyalty programs
-
-Enhance digital engagement channels
-
-Elevate core Coffee & Tea product strategy
+-Canva for presenting
 
 
 
